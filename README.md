@@ -86,15 +86,14 @@ pip install scikit-learn matplotlib numpy pandas
 python main.py
 ```
 
-### RESULTADOS OBTENIDOS ### 
+### RESULTADOS OBTENIDOS 
 -Reducción de costos: 35% vs planificación manual
 -Mejora en tiempos: 40% más rápido
 -Precisión ML: 87% en predicciones
 -Performance caching: 7x más rápido
-
-### ESTRUCTURA FINAL### 
+---
+### ESTRUCTURA 
 ```text
-... contenido ...
 Pef/
 ├── main.py              # Punto de entrada
 ├── optimizador.py       # Optimización dinámica
