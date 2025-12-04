@@ -79,18 +79,20 @@ Sistema completo que optimiza recursos en fábricas usando **programación diná
 
 1. **Instalar dependencias:**
 ```bash
-pip install scikit-learn matplotlib numpy pandas¨
-2. Ejecutar el sistema:
-bash
+pip install scikit-learn matplotlib numpy pandas
+```
+2. **Ejecutar el sistema:**
+```bash
 python main.py
+```
 
-RESULTADOS OBTENIDOS
+### RESULTADOS OBTENIDOS ### 
 Reducción de costos: 35% vs planificación manual
 Mejora en tiempos: 40% más rápido
 Precisión ML: 87% en predicciones
 Performance caching: 7x más rápido
 
-ESTRUCTURA FINAL
+### ESTRUCTURA FINAL### 
 Pef/
 ├── main.py              # Punto de entrada
 ├── optimizador.py       # Optimización dinámica
