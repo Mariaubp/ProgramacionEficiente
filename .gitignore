@@ -1,0 +1,26 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Archivos de datos y modelos
+cache_production.json
+modelo_demanda.pkl
+
+# Documentación
+documentation_pdoc/
+
+# IDE
+.vscode/
+.idea/
+# Archivos de datos y carpetas temporales
+Pef/
+cache_produccion.json
+documentacion_pdoc/
+modelo_demanda.pkl
